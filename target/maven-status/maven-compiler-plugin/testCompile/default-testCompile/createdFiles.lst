@@ -1,0 +1,8 @@
+com\bestbuy\productinfo\UtilitiesTest.class
+com\bestbuy\productinfo\CategoriesTest.class
+com\bestbuy\productinfo\ProductTest.class
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\productinfo\ServicesTest.class
+com\bestbuy\cucumber\CucumberRunner.class
+com\bestbuy\cucumber\steps\MyStepdefs.class
+com\bestbuy\productinfo\StoreTest.class

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories test","This will get all categories","SUCCESS","2022-06-07T23:18:39.588+01:00[Europe/London]","0.0","2.91"
+"Categories test","Create new categories","SUCCESS","2022-06-07T23:18:42.534+01:00[Europe/London]","0.0","0.46"
+"Categories test","Verify if the categories was added to store","SUCCESS","2022-06-07T23:18:42.992+01:00[Europe/London]","0.0","0.03"
+"Categories test","Update the categories","SUCCESS","2022-06-07T23:18:43.023+01:00[Europe/London]","0.0","0.05"
